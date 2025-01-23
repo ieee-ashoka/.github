@@ -15,6 +15,6 @@
   
 ## 💻 Our Technologies  
 
-[![Technologies](https://skillicons.dev/icons?i=nextjs,supabase,react,express,python,c,aws)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=nextjs,supabase,react,express,python,c,aws,ts)](https://skillicons.dev)
 
 
