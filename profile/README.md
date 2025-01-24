@@ -1,4 +1,4 @@
-<h1 align="center" id="title">IEEE</h1>
+<h1 align="center" id="title">IEEE Ashoka Student Branch</h1>
 
 <div align="center" id="badges">
   
