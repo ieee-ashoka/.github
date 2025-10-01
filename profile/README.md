@@ -2,7 +2,7 @@
 
 <div align="center" id="badges">
   
-[![Years Badge](https://badges.pufler.dev/years/ieee-ashoka-it)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/ieee-ashoka-it)](https://badges.pufler.dev) 
+[![Years Badge](https://badges.pufler.dev/years/ieee-ashoka)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/ieee-ashoka)](https://badges.pufler.dev) 
 
 </div>
 
